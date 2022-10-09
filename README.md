@@ -23,5 +23,4 @@ I am a Frontend Developer by passion and an avid UI/UX Design enthusiast.
 - I love playing Basketball
 - Reading about Black Holes and the endless Cosmos ✨
 
-[My_Portfolio](https://arunaugustine.netlify.app/![image](https://user-images.githubusercontent.com/26569690/194744664-30daad86-e86d-4095-b337-d7686a2660e1.png)
-)
+[My_Portfolio](https://arunaugustine.netlify.app/)
