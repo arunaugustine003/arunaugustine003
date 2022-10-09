@@ -20,7 +20,7 @@ I love the art of programming and developing interesting web apps / websites wit
 I am a Frontend Developer by passion and an avid UI/UX Design enthusiast.
 
 ### What do I do for Fun ?
-- I love playing Basketball
+- I love playing Basketball 
 - Reading about Black Holes and the endless Cosmos ✨
 
-[My_Portfolio](https://arunaugustine.netlify.app/)
+[Peak into my Portfolio](https://arunaugustine.netlify.app/)
