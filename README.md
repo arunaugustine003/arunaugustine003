@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 I love the art of programming and developing interesting web apps with rich UX and colorful UI.
+
 I am a Full Stack Web Developer by Passion and an avid UI/UX Design enthusiast.
 
 ### What do I do for Fun ?
